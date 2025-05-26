@@ -163,5 +163,4 @@ The training process:
 
 ## License
 
-MIT License# R20_End2End-Portfolio-Optimization
-# P05_End2End-Portfolio-Optimization
+MIT License# P05_End2End-Portfolio-Optimization
